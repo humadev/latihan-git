@@ -18,3 +18,4 @@ def aditya:
 
 def mobile: 
     print("mobile selesai")
+    print("camera")
