@@ -5,3 +5,6 @@ def testing :
 
 def dana :
     print("Dana")
+    
+def aditya:
+    print("Work of Aditya")
