@@ -14,3 +14,6 @@ def dana :
     
 def aditya:
     print("Work of Aditya")
+
+def roda:
+    print("roda bergerak mundur")
