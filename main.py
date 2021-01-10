@@ -14,3 +14,7 @@ def dana :
     
 def aditya:
     print("Work of Aditya")
+
+
+def mobile: 
+    print("mobile selesai")
