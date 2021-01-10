@@ -12,3 +12,6 @@ def dana :
     
 def aditya:
     print("Work of Aditya")
+
+def ekor:
+    print("Ini Ekornya")
