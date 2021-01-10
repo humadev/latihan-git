@@ -3,5 +3,9 @@ def testing :
     print("testing 2")
     print("test 5")
 
+
+
 def pras :
     print("pras")
+def dana :
+    print("Dana")
